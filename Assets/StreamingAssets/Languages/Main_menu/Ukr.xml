@@ -1,0 +1,8 @@
+<Root>
+  <Menu Start="Старт" Continue="Продовжити" Save="Зберегти" Load="Завантажити" Restart="Рестарт" Settings="Опції" Authors="Автори" Multiplayer="Мультіплеер" Exit="Вихід"/>
+  <Option_menu Value_affect_info="Звук ефектів" Value_music_info="Звук музики" Language_option_info="Мова" Exit_button="Закрити меню" />
+  <Input_info Control_walk_forward="Вперед" Control_walk_back="Назад"  Control_walk_left="Вліво"  Control_walk_right="Вправо"  Control_jump="Стрибок" 
+  Control_attack="Атака" Option_enter="Натисніть..." />
+   <Info_game Info_version="Версія гри" Link="Посилання на сайт" />
+   <Lobby Create_room="Створити" Join_room="Підключитися" />
+</Root>

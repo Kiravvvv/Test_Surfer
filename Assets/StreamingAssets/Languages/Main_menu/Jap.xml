@@ -1,0 +1,8 @@
+<Root>
+  <Menu Start="スタート" Continue="続ける" Save="保存する" Load="ダウンロードする" Restart="再起動" Settings="オプション" Authors="作者" Multiplayer="マルチプレイヤー" Exit="終了"/>
+  <Option_menu Value_affect_info="効果音" Value_music_info="音楽の音" Language_option_info="言語" Exit_button="メニューを閉じる" />
+  <Input_info Control_walk_forward="進む" Control_walk_back="戻る"  Control_walk_left="左へ"  Control_walk_right="右へ"  Control_jump="ジャンプする" 
+  Control_attack="攻撃する" Option_enter="クリック..." />
+   <Info_game Info_version="ゲーム版" Link="サイトへのリンク" />
+   <Lobby Create_room="作成する" Join_room="接続する" />
+</Root>
